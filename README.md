@@ -54,8 +54,7 @@ FHIR_CapStatViewer/
 ├── styles.css          # CSS styling
 ├── app.js             # JavaScript application logic
 ├── README.md          # This file
-└── .github/
-    └── copilot-instructions.md  # Development guidelines
+
 ```
 
 ## Technical Details
