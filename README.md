@@ -2,6 +2,10 @@
 
 A modern web application for loading and viewing FHIR CapabilityStatement data in a human-readable format.
 
+## Video Overviews
+
+- Initial version: https://www.youtube.com/shorts/V44Os1uNZXs
+
 ## Features
 
 - **URL Input**: Load FHIR CapabilityStatement data from any FHIR server endpoint
